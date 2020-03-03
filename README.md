@@ -3,6 +3,6 @@
 
 - Scraping data from variety kinds of files (HTML, JSON, TXT). Libraries:
   + BeautifulSoup
-  + Request
-  +  wptools
+  + Requests
+  + wptools
 - Data cleaning (19 issues)
