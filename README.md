@@ -5,4 +5,5 @@
   + BeautifulSoup
   + Requests
   + wptools
+  + json
 - Data cleaning (19 issues)
